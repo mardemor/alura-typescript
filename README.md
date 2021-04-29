@@ -2,7 +2,7 @@
 
 <p>Projeto desenvolvido como parte do curso <b>Typescript</b> da escola <a href="https://www.alura.com.br/">Alura</a>, ministrado pelo professor Flavio Almeida.</p>
 <p>O curso teve carga horária de 18 horas e está dividido em 2 módulos:</p>
-<h3><a href="https://cursos.alura.com.br/course/typescript-parte1" target="_blank">Parte 1: Evoluindo seu Javascript</a></h3>
+<h3><a href="https://cursos.alura.com.br/course/typescript-parte1" target="blank">Parte 1: Evoluindo seu Javascript</a></h3>
 <ul>
 <li>Aprenda a configurar do zero seu ambiente</li>
 <li>Compreenda as vantagens da tipagem estática</li>
