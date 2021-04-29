@@ -24,11 +24,11 @@
 <p>Veja mais detalhes sobre o curso: 
   <a href="https://cursos.alura.com.br/course/typescript-parte1">parte 1</a> e <a href="https://cursos.alura.com.br/course/typescript-parte2">parte 2</a>.
 </p>
-<h3>Para rodar o projeto:</h3>
+<h3>Para rodar o projeto</h3>
 <ul>
   <li>Necessário o node.js instalado na máquina</li>
   <li>Baixe e descompacte o <a href="https://github.com/mardemor/alura-typescript/archive/refs/tags/v1.0.zip">arquivo zipado</a></li>
+  <li>Para instalar os modulos do node.js, abra o console na pasta "client" e execute o comando "npm install"</li>
   <li>Para subir o servidor da API, abra o console na pasta "api" e execute o comando "npm start". O servidor escuta na porta 8080</li>
-  <li>Para instalar os modulos do node.js, abra mais um console na pasta "client" e execute o comando "npm install"</li>
   <li>Publique o conteudo da pasta "client" no seu servidor web</li>
 </ul>
