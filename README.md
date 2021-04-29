@@ -2,7 +2,7 @@
 
 <p>Projeto desenvolvido como parte do curso <b>Typescript</b> da escola <a href="https://www.alura.com.br/">Alura</a>, ministrado pelo professor Flavio Almeida.</p>
 <p>O curso teve carga horária de 18 horas e está dividido em 2 módulos:</p>
-<h3>Parte 1: Evoluindo seu Javascript</h3>
+<h3><a href="https://cursos.alura.com.br/course/typescript-parte1">Parte 1: Evoluindo seu Javascript</a></h3>
 <ul>
 <li>Aprenda a configurar do zero seu ambiente</li>
 <li>Compreenda as vantagens da tipagem estática</li>
@@ -11,7 +11,7 @@
 <li>Conheça gradativamente os recursos do TypeScript compiler</li>
 <li>Entenda o papel dos Type Definitions</li>
 </ul>
-<h3>Parte 2: Mais técnicas e boas práticas</h3>
+<h3><a href="https://cursos.alura.com.br/course/typescript-parte2">Parte 2: Mais técnicas e boas práticas</a></h3>
 <ul>
 <li>Entenda o papel de namespaces</li>
 <li>Organize seu projeto em módulos do ES2015</li>
