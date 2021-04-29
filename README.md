@@ -21,4 +21,6 @@
 <li>Entenda as vantagens de se trabalhar com diferentes tipos de interfaces</li>
 <li>Entenda o benefício de async/await</li>
 </ul>
-<p><a href="https://cursos.alura.com.br/course/typescript-parte1">Veja mais detalhes sobre o curso</a>.</p>
+<p>Veja mais detalhes sobre o curso: 
+  <a href="https://cursos.alura.com.br/course/typescript-parte1">parte 1</a> e <a href="https://cursos.alura.com.br/course/typescript-parte2">parte 2</a>.
+</p>
